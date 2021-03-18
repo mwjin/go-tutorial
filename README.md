@@ -1,2 +1,2 @@
-# go-tutorial
-Tutorials for Go Language
+# go-practice
+My own practices for Go Language
