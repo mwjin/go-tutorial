@@ -1,7 +1,7 @@
-module github.com/mwjjeong/go-practice/hello
+module github.com/mwjjeong/go-tutorial/hello
 
 go 1.16
 
-replace github.com/mwjjeong/go-practice/greetings => ../greetings
+replace github.com/mwjjeong/go-tutorial/greetings => ../greetings
 
-require github.com/mwjjeong/go-practice/greetings v0.0.0-00010101000000-000000000000
+require github.com/mwjjeong/go-tutorial/greetings v0.0.0-00010101000000-000000000000

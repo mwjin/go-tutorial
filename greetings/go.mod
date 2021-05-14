@@ -1,3 +1,3 @@
-module github.com/mwjjeong/go-practice/greetings
+module github.com/mwjjeong/go-tutorial/greetings
 
 go 1.16
