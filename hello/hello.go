@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/mwjjeong/go-practice/hello/greeting"
+	"github.com/mwjjeong/go-practice/greetings"
 )
 
 func main() {
 	fmt.Println("Hello, World!")
-	greeting.SayBye()
+	greetings.SayBye()
 }
